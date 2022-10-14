@@ -1,6 +1,10 @@
 # mapping-example
 Let multiple users work on the same map using Open Orienteering Mapper and Github
 
+**Sections: Github signup | Install Github Desktop | Setup repository | Add OOM files | Q & A **
+
+
+
 ### Setting up your Github account and use Github Desktop Client
 
 #### Signup for a Github account
