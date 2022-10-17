@@ -36,3 +36,18 @@ Save it as a XMAP file to your folder structure where you keep your Github repos
 Our map file is now saved as an XML file that Github can keep track of
 ![image](https://user-images.githubusercontent.com/5741093/196256975-177526c9-6828-4a0d-85b1-75af62c21b2a.png)
 
+
+### Adding members / collaborators
+Click settings on your repository
+![image](https://user-images.githubusercontent.com/5741093/196257378-d7f75f4b-203d-4266-98c6-d06b7dbaddaf.png)
+
+Click collaborators
+![image](https://user-images.githubusercontent.com/5741093/196257491-deef829e-2f54-4e29-a58e-43ee5e1c9295.png)
+
+Check who has access and invite other people
+![image](https://user-images.githubusercontent.com/5741093/196257579-edb3a702-9c1c-4d63-bc4c-3d1d0dde24c1.png)
+
+Invite other
+Either add their Github user account name or an email address. An invite will be sent to that user or email address
+The user must accept the invite 
+![image](https://user-images.githubusercontent.com/5741093/196257764-5ba7ee63-f162-4d05-bdb4-a3955ba26229.png)
