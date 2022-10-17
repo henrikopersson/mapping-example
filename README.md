@@ -25,3 +25,14 @@ Let multiple users work on the same map using Open Orienteering Mapper and Githu
 6. Now you are done with installing Githu Desktop Client
 ![bild](https://user-images.githubusercontent.com/5741093/195796809-cf0efbb6-f996-4c76-8ef2-0425c10d15c0.png)
 
+### Creating example map
+
+A simple map 
+![image](https://user-images.githubusercontent.com/5741093/196256390-a757ce10-3f73-4bdc-868d-5aea1ec48b94.png)
+
+Save it as a XMAP file to your folder structure where you keep your Github repository
+![image](https://user-images.githubusercontent.com/5741093/196256611-4d49ad0b-b8cc-4b91-bfe3-8020f39c85bc.png)
+
+Our map file is now saved as an XML file that Github can keep track of
+![image](https://user-images.githubusercontent.com/5741093/196256975-177526c9-6828-4a0d-85b1-75af62c21b2a.png)
+
