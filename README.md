@@ -28,7 +28,7 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 
 ## Instructions
-- (https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client)[Setting up your Github account and use Github Desktop Client]
+- [Setting up your Github account and use Github Desktop Client](https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client)
 - Create a new repository
 - Adding members / collaborators
 - Clone repository
