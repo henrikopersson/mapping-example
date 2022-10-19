@@ -1,7 +1,7 @@
 # mapping-example
 **A guide to having multiple mappers work on the same map file using Open Orienteering Mapper and Github**
 
-- Case
+- [Case](https://github.com/henrikopersson/mapping-example/blob/main/README.md#case)
 - Instructions and how-to
 
 ## Case
