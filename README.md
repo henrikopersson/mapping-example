@@ -1,6 +1,8 @@
 # mapping-example
 **A guide to having multiple mappers work on the same map file using Open Orienteering Mapper and Github**
 
+- Case
+- Instructions and how-to
 
 ## Case
 *Mapping togheter on same map file, is that possible? Yes with Github only changes to the actual map file will be saved.*
