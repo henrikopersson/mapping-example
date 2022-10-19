@@ -1,8 +1,8 @@
 # mapping-example
-*Let multiple users work on the same map using Open Orienteering Mapper and Github*
+**Let multiple users work on the same map using Open Orienteering Mapper and Github**
 
 ## Case
-Mapping togheter with Github, only changes to the actual map file will be saved to Github.
+*Mapping togheter on same map file, is that possible? Yes with Github only changes to the actual map file will be saved.*
 
 When making orienteering maps there is an issue who has the latest versions. Normally you put your mapping files in a shared storage like Google Drive, Dropbox etc and let other people access that map. That is fine when you have an actual version of the mapp, ready for competitions or training.
 
