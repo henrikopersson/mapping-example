@@ -5,7 +5,8 @@
 ## Case
 *Mapping togheter on same map file, is that possible? Yes with Github only changes to the actual map file will be saved.*
 
-**Who has the latest version of you map**
+**Who has the latest version of you map?**
+
 When making orienteering maps there is common issue, who has the latest version? 
 
 Normally you save your mapping files in a shared storage like Google Drive, Dropbox etc and let other people access that map. That is fine when you have an actual version of the map ready for competitions or training. But when working on the map together with others or sharing to other people during the work, you don't need to care who has the latest version of the map. Github has always latest version.
