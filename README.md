@@ -1,8 +1,24 @@
 # mapping-example
-Let multiple users work on the same map using Open Orienteering Mapper and Github
+*Let multiple users work on the same map using Open Orienteering Mapper and Github*
 
-### Case
-Mapping togheter with Github, only changes to the actual map file will be saved to Github
+## Case
+Mapping togheter with Github, only changes to the actual map file will be saved to Github.
+
+When making orienteering maps there is an issue who has the latest versions. Normally you put your mapping files in a shared storage like Google Drive, Dropbox etc and let other people access that map. That is fine when you have an actual version of the mapp, ready for competitions or training.
+
+But using Github when making a new map or revise your current map there can be multiple collaborators working with the same map if the map file is saved in the XMAP format in Open Orienteering Mapper.
+
+Since XMAP is an XML format, the file is saved in a clear text format.
+
+
+Using Github will not
+
+
+
+We have a map that we want other users/members to edit
+
+*Case 2*
+I have a map
 
 I will explain below
 
