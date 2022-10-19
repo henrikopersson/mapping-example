@@ -11,23 +11,21 @@ When making orienteering maps there is common issue, who has the latest version?
 
 Normally you save your mapping files in a shared storage like Google Drive, Dropbox etc and let other people access that map. That is fine when you have an actual version of the map ready for competitions or training. But when working on the map together with others or sharing to other people during the work, you don't need to care who has the latest version of the map. Github has always latest version.
 
-But using Github when making a new map or revise your current map there can be multiple collaborators working with the same map if the map file is saved in the XMAP format in Open Orienteering Mapper.
+**What happens if mappers draw on the same area?**
+
+But using Github is not solving all your problems. Still there could be issues if mappers draw on the same area. So before you start let the other collaborators know which area you are supposed to map to prevent mapping issues. What issues can happen and there will be some information further down this page that you could do if someone owerwrite your mapping area.
+
+**Using XMAP format in Open Orienteering mapper is mandatory with Github**
+
+When making a new map or revise your current map there can be multiple collaborators working with the same map if the map file is saved in the XMAP format in Open Orienteering Mapper. If you save your file in the OMAP format, mapper compacts the file and the file that not be read with Github to merge changes to the map. Same for OCAD files. 
 
 Since XMAP is an XML format, the file is saved in a clear text format.
 
 ![bild](https://user-images.githubusercontent.com/72732333/196690935-b5aafcdf-f917-42ca-a27e-608df78b1ef0.png)
 
 
-Using Github will not
-
-
-
 We have a map that we want other users/members to edit
 
-*Case 2*
-I have a map
-
-I will explain below
 
 
 **Sections: Github signup | Install Github Desktop | Setup repository | Add OOM files | Q & A **
