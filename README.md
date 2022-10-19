@@ -1,6 +1,12 @@
 # mapping-example
 Let multiple users work on the same map using Open Orienteering Mapper and Github
 
+### Case
+Mapping togheter with Github, only changes to the actual map file will be saved to Github
+
+I will explain below
+
+
 **Sections: Github signup | Install Github Desktop | Setup repository | Add OOM files | Q & A **
 
 
@@ -24,6 +30,27 @@ Let multiple users work on the same map using Open Orienteering Mapper and Githu
 ![bild](https://user-images.githubusercontent.com/5741093/195796498-bdc164be-296b-49ae-8555-863c6e818730.png)
 6. Now you are done with installing Githu Desktop Client
 ![bild](https://user-images.githubusercontent.com/5741093/195796809-cf0efbb6-f996-4c76-8ef2-0425c10d15c0.png)
+
+### Create a new repository
+
+1. Go to your Github account in your web browser
+2. Click on the link Repositories
+![bild](https://user-images.githubusercontent.com/72732333/196682951-5dfd0f83-a873-4755-8006-595b16bf3725.png)
+3. Click New to crate a new repository
+![bild](https://user-images.githubusercontent.com/72732333/196683052-5da052bd-3c92-4856-8a17-5f6873359270.png)
+4. Fill in:
+Repository name: your map name or the collection of your maps or something else
+Description: Some information about your repository
+Public/private: For mapping I would suggest to use private since you most likely working on something that might be private
+Readme file: can be useful, to write about your repository, which maps etc.
+Gitignore template: none
+License: none
+Create repository
+![bild](https://user-images.githubusercontent.com/72732333/196683937-6a83f41c-1151-4a3a-99f7-2941dc5adf00.png)
+
+5. Repository is now created. Either jump to section how you start working with your repository or add members/collaborators
+
+
 
 ### Creating example map
 
