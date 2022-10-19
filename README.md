@@ -32,6 +32,16 @@ We have a map that we want other users/members to edit
 
 
 
+## Instructions
+- Setting up your Github account and use Github Desktop Client
+- Create a new repository
+- Adding members / collaborators
+- Clone repository
+- Push and pull files from Github
+- Creating example map and push to Github
+- Q & A
+
+
 ### Setting up your Github account and use Github Desktop Client
 
 #### Signup for a Github account
