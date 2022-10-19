@@ -1,5 +1,6 @@
 # mapping-example
-**Let multiple users work on the same map using Open Orienteering Mapper and Github**
+**A guide to having multiple mappers work on the same map file using Open Orienteering Mapper and Github**
+
 
 ## Case
 *Mapping togheter on same map file, is that possible? Yes with Github only changes to the actual map file will be saved.*
@@ -12,6 +13,8 @@ Normally you save your mapping files in a shared storage like Google Drive, Drop
 But using Github when making a new map or revise your current map there can be multiple collaborators working with the same map if the map file is saved in the XMAP format in Open Orienteering Mapper.
 
 Since XMAP is an XML format, the file is saved in a clear text format.
+
+![bild](https://user-images.githubusercontent.com/72732333/196690935-b5aafcdf-f917-42ca-a27e-608df78b1ef0.png)
 
 
 Using Github will not
