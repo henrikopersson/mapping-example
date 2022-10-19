@@ -39,9 +39,9 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 - Q & A
 
 
-### Setting up your Github account and use Github Desktop Client
+## Setting up your Github account and use Github Desktop Client
 
-#### Signup for a Github account
+### Signup for a Github account
 1. Go to https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
 2. Enter your email address and continue to create an account
 ![bild](https://user-images.githubusercontent.com/5741093/195793640-6c245635-78fc-4e6f-9edd-be6afd486431.png)
@@ -59,7 +59,7 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 6. Now you are done with installing Githu Desktop Client
 ![bild](https://user-images.githubusercontent.com/5741093/195796809-cf0efbb6-f996-4c76-8ef2-0425c10d15c0.png)
 
-### Create a new repository
+## Create a new repository
 
 1. Go to your Github account in your web browser
 2. Click on the link Repositories
@@ -78,21 +78,7 @@ Create repository
 
 5. Repository is now created. Either jump to section how you start working with your repository or add members/collaborators
 
-
-
-### Creating example map
-
-A simple map 
-![image](https://user-images.githubusercontent.com/5741093/196256390-a757ce10-3f73-4bdc-868d-5aea1ec48b94.png)
-
-Save it as a XMAP file to your folder structure where you keep your Github repository
-![image](https://user-images.githubusercontent.com/5741093/196256611-4d49ad0b-b8cc-4b91-bfe3-8020f39c85bc.png)
-
-Our map file is now saved as an XML file that Github can keep track of
-![image](https://user-images.githubusercontent.com/5741093/196256975-177526c9-6828-4a0d-85b1-75af62c21b2a.png)
-
-
-### Adding members / collaborators
+## Adding members / collaborators
 Click settings on your repository
 ![image](https://user-images.githubusercontent.com/5741093/196257378-d7f75f4b-203d-4266-98c6-d06b7dbaddaf.png)
 
@@ -106,3 +92,17 @@ Invite other
 Either add their Github user account name or an email address. An invite will be sent to that user or email address
 The user must accept the invite 
 ![image](https://user-images.githubusercontent.com/5741093/196257764-5ba7ee63-f162-4d05-bdb4-a3955ba26229.png)
+
+
+## Creating example map
+
+A simple map 
+![image](https://user-images.githubusercontent.com/5741093/196256390-a757ce10-3f73-4bdc-868d-5aea1ec48b94.png)
+
+Save it as a XMAP file to your folder structure where you keep your Github repository
+![image](https://user-images.githubusercontent.com/5741093/196256611-4d49ad0b-b8cc-4b91-bfe3-8020f39c85bc.png)
+
+Our map file is now saved as an XML file that Github can keep track of
+![image](https://user-images.githubusercontent.com/5741093/196256975-177526c9-6828-4a0d-85b1-75af62c21b2a.png)
+
+
