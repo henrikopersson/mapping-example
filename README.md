@@ -24,16 +24,11 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 ![bild](https://user-images.githubusercontent.com/72732333/196690935-b5aafcdf-f917-42ca-a27e-608df78b1ef0.png)
 
 
-We have a map that we want other users/members to edit
-
-
-
-**Sections: Github signup | Install Github Desktop | Setup repository | Add OOM files | Q & A **
 
 
 
 ## Instructions
-- Setting up your Github account and use Github Desktop Client
+- [https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client] Setting up your Github account and use Github Desktop Client
 - Create a new repository
 - Adding members / collaborators
 - Clone repository
