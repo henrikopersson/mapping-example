@@ -44,18 +44,28 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 
 ## Instructions
+
 - [Setting up your Github account and use Github Desktop Client](https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client)
+
 - [Create a new repository](https://github.com/henrikopersson/mapping-example/blob/main/README.md#create-a-new-repository)
+
 - [Adding members / collaborators](https://github.com/henrikopersson/mapping-example/blob/main/README.md#adding-members--collaborators)
+
 - Clone repository
+
 - Push and pull files from Github
+
 - [Creating example map and push to Github](https://github.com/henrikopersson/mapping-example#creating-example-map)
+
 - Q & A
 
 
 ## Setting up your Github account and use Github Desktop Client
 
+
+
 ### Signup for a Github account
+
 1. Go to https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
 
 2. Enter your email address and continue to create an account
@@ -64,7 +74,9 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 3. When your account is created and you have verified that you can login to Github continue to setup Github Desktop Client
 
+
 ### Setup and run Github Desktop Client
+
 1. Go to https://desktop.github.com/
 
 2. And download the Github Desktop client and install it on your computer by running the GitHubDesktopSetup file
@@ -113,18 +125,24 @@ Create repository
 
 
 ## Adding members / collaborators
-Click settings on your repository
+1. Click settings on your repository
+
 ![image](https://user-images.githubusercontent.com/5741093/196257378-d7f75f4b-203d-4266-98c6-d06b7dbaddaf.png)
 
-Click collaborators
+2. Click collaborators
+
 ![image](https://user-images.githubusercontent.com/5741093/196257491-deef829e-2f54-4e29-a58e-43ee5e1c9295.png)
 
-Check who has access and invite other people
+3. Check who has access and invite other people
+
 ![image](https://user-images.githubusercontent.com/5741093/196257579-edb3a702-9c1c-4d63-bc4c-3d1d0dde24c1.png)
 
-Invite other
+4. Invite other
+
 Either add their Github user account name or an email address. An invite will be sent to that user or email address
+
 The user must accept the invite 
+
 ![image](https://user-images.githubusercontent.com/5741093/196257764-5ba7ee63-f162-4d05-bdb4-a3955ba26229.png)
 
 
@@ -133,9 +151,11 @@ The user must accept the invite
 After the repository was created it is now ready to be cloned, first of you and then other collaborators you have added.
 
 *** Open up the Github client and select to clone a repository ***
+
 ![clone repo](https://user-images.githubusercontent.com/72732333/210184324-36ee9518-f1d4-4d83-a0d9-d0544de9dfca.png)
 
 *** First click the refresh button and Github Desktop ***
+
 ![clone repo 2](https://user-images.githubusercontent.com/72732333/210184379-4bf001b6-cfe0-4346-8ee3-e04436e23469.png)
 
 Github will automatically get your repositories and select the one you would like to clone and get a local copy from.
