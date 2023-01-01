@@ -99,19 +99,19 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 ## Create a new repository
 
-1. Go to your Github account in your web browser
+### 1. Go to your Github account in your web browser ###
 
-2. Click on the link Repositories
+### 2. Click on the link Repositories ###
 
 ![bild](https://user-images.githubusercontent.com/72732333/196682951-5dfd0f83-a873-4755-8006-595b16bf3725.png)
 
-3. Click New to crate a new repository
+### 3. Click New to crate a new repository ###
 
 ![bild](https://user-images.githubusercontent.com/72732333/196683052-5da052bd-3c92-4856-8a17-5f6873359270.png)
 
-4. Fill in:
+### 4. Fill in: ###
 
-Repository name: your map name or the collection of your maps or something else
+Repository name: ```your map name or the collection of your maps or something else
 Description: Some information about your repository
 Public/private: For mapping I would suggest to use private since you most likely working on something that might be private
 Readme file: can be useful, to write about your repository, which maps etc.
@@ -126,19 +126,19 @@ Create repository
 
 ## Adding members / collaborators
 
-**1. Click settings on your repository**
+### 1. Click settings on your repository ###
 
 ![image](https://user-images.githubusercontent.com/5741093/196257378-d7f75f4b-203d-4266-98c6-d06b7dbaddaf.png)
 
-**2. Click collaborators**
+### 2. Click collaborators ###
 
 ![image](https://user-images.githubusercontent.com/5741093/196257491-deef829e-2f54-4e29-a58e-43ee5e1c9295.png)
 
-3. Check who has access and invite other people
+### 3. Check who has access and invite other people ###
 
 ![image](https://user-images.githubusercontent.com/5741093/196257579-edb3a702-9c1c-4d63-bc4c-3d1d0dde24c1.png)
 
-4. Invite other
+### 4. Invite others ###
 
 Either add their Github user account name or an email address. An invite will be sent to that user or email address
 
@@ -151,11 +151,11 @@ The user must accept the invite
 
 After the repository was created it is now ready to be cloned, first of you and then other collaborators you have added.
 
-### Open up the Github client and select to clone a repository ###
+### 1. Open up the Github client and select to clone a repository ###
 
 ![clone repo](https://user-images.githubusercontent.com/72732333/210184324-36ee9518-f1d4-4d83-a0d9-d0544de9dfca.png)
 
-### Click the refresh button and Github Desktop ###
+### 2. Click the refresh button and Github Desktop ###
 
 ![clone repo 2](https://user-images.githubusercontent.com/72732333/210184379-4bf001b6-cfe0-4346-8ee3-e04436e23469.png)
 
@@ -163,7 +163,7 @@ Github will automatically get your repositories and select the one you would lik
 
 And also selct which local path you would like to use for your files. Github Desktop will suggest a path, you can use that one or type in any other path you like to use.
 
-### Click CLONE ###
+### 3. Click CLONE ###
 
 Then you are done.
 
