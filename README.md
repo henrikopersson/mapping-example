@@ -46,10 +46,10 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 ## Instructions
 - [Setting up your Github account and use Github Desktop Client](https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client)
 - [Create a new repository](https://github.com/henrikopersson/mapping-example/blob/main/README.md#create-a-new-repository)
-- Adding members / collaborators
+- [Adding members / collaborators](https://github.com/henrikopersson/mapping-example/blob/main/README.md#adding-members--collaborators)
 - Clone repository
 - Push and pull files from Github
-- Creating example map and push to Github
+- [Creating example map and push to Github](https://github.com/henrikopersson/mapping-example#creating-example-map)
 - Q & A
 
 
@@ -107,6 +107,10 @@ Either add their Github user account name or an email address. An invite will be
 The user must accept the invite 
 ![image](https://user-images.githubusercontent.com/5741093/196257764-5ba7ee63-f162-4d05-bdb4-a3955ba26229.png)
 
+
+## Clone repository (get a local copy of your files from Github)
+
+## Push and pull files from Github (upload and download updates of your map file)
 
 ## Creating example map
 
