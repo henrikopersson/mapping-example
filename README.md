@@ -12,7 +12,7 @@
 
 
 
-**Who has the latest version of you map?**
+### Who has the latest version of you map?
 
 
 When making orienteering maps there is common issue, who has the latest version? 
