@@ -66,36 +66,43 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 ### Signup for a Github account
 
-1. Go to https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+### 1. Go to https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home ###
 
-2. Enter your email address and continue to create an account
+### 2. Enter your email address and continue to create an account ###
 
 ![bild](https://user-images.githubusercontent.com/5741093/195793640-6c245635-78fc-4e6f-9edd-be6afd486431.png)
 
-3. When your account is created and you have verified that you can login to Github continue to setup Github Desktop Client
+### 3. When your account is created and you have verified that you can login to Github continue to setup Github Desktop Client ###
 
 
-### Setup and run Github Desktop Client
 
-1. Go to https://desktop.github.com/
 
-2. And download the Github Desktop client and install it on your computer by running the GitHubDesktopSetup file
 
-3. Upon installtion, select to signin to Github
+## Setup and run Github Desktop Client
+
+### 1. Go to https://desktop.github.com/ ###
+
+### 2. Download the Github Desktop client and install it on your computer by running the GitHubDesktopSetup file ###
+
+### 3. Upon installtion, select to signin to Github ###
 
 ![bild](https://user-images.githubusercontent.com/5741093/195795570-89f19c40-9c16-459f-b813-ca3e457ba48f.png)
 
-4. In the web browser allow Github Desktop Client to allow open up access to Github signin
+### 4. In the web browser allow Github Desktop Client to allow open up access to Github signin ###
 
 ![bild](https://user-images.githubusercontent.com/5741093/195796075-cba42037-a44b-49a6-82b5-f698089a693e.png)
 
-5. After succesful login the Desktop client will ask you if you want to use your current name and email address or specify one manually. After you have verified either your address is correct or entered one manully click Finish.
+### 5. After succesful login the Desktop client will ask you if you want to use your current name and email address or specify one manually. After you have verified either your address is correct or entered one manully click Finish. ###
 
 ![bild](https://user-images.githubusercontent.com/5741093/195796498-bdc164be-296b-49ae-8555-863c6e818730.png)
 
-6. Now you are done with installing Githu Desktop Client
+### 6. Now you are done with installing Githu Desktop Client ###
 
 ![bild](https://user-images.githubusercontent.com/5741093/195796809-cf0efbb6-f996-4c76-8ef2-0425c10d15c0.png)
+
+
+
+
 
 ## Create a new repository
 
@@ -111,17 +118,22 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 ### 4. Fill in: ###
 
-Repository name: ```your map name or the collection of your maps or something else
-Description: Some information about your repository
-Public/private: For mapping I would suggest to use private since you most likely working on something that might be private
-Readme file: can be useful, to write about your repository, which maps etc.
-Gitignore template: none
-License: none
-Create repository
+Repository name: *Your map name or the collection of your maps or something else*
+Description: *Some information about your repository*
+Public/private: *For mapping I would suggest to use private since you most likely working on something that might be private*
+Readme file: *Can be useful, to write about your repository, which maps etc.*
+Gitignore template: *none*
+License: *none*
+
+**Click Create repository**
 
 ![bild](https://user-images.githubusercontent.com/72732333/196683937-6a83f41c-1151-4a3a-99f7-2941dc5adf00.png)
 
-5. Repository is now created. Either jump to section how you start working with your repository or add members/collaborators
+### 5. Repository is now created. Either jump to section how you start working with your repository or add members/collaborators ###
+
+
+
+
 
 
 ## Adding members / collaborators
@@ -145,6 +157,8 @@ Either add their Github user account name or an email address. An invite will be
 The user must accept the invite 
 
 ![image](https://user-images.githubusercontent.com/5741093/196257764-5ba7ee63-f162-4d05-bdb4-a3955ba26229.png)
+
+
 
 
 ## Clone repository (get a local copy of your files from Github)
