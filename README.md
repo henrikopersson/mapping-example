@@ -3,7 +3,7 @@
 **A guide to having multiple mappers work on the same map file using Open Orienteering Mapper and Github**
 
 - [Introduction](https://github.com/henrikopersson/mapping-example/blob/main/README.md#introduction)
-- [Instructions and how-to](https://github.com/henrikopersson/mapping-example/blob/main/README.md#instructions)
+- [Instructions and how-to setup Github account and use it with OOM](https://github.com/henrikopersson/mapping-example/blob/main/README.md#instructions)
 
 
 
@@ -45,7 +45,7 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 ## Instructions
 - [Setting up your Github account and use Github Desktop Client](https://github.com/henrikopersson/mapping-example/blob/main/README.md#setting-up-your-github-account-and-use-github-desktop-client)
-- Create a new repository
+- [Create a new repository](https://github.com/henrikopersson/mapping-example/blob/main/README.md#create-a-new-repository)
 - Adding members / collaborators
 - Clone repository
 - Push and pull files from Github
