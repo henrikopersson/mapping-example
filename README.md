@@ -110,6 +110,23 @@ The user must accept the invite
 
 ## Clone repository (get a local copy of your files from Github)
 
+After the repository was created it is now ready to be cloned, first of you and then other collaborators you have added.
+
+*** Open up the Github client and select to clone a repository ***
+![clone repo](https://user-images.githubusercontent.com/72732333/210184324-36ee9518-f1d4-4d83-a0d9-d0544de9dfca.png)
+
+*** First click the refresh button and Github Desktop ***
+![clone repo 2](https://user-images.githubusercontent.com/72732333/210184379-4bf001b6-cfe0-4346-8ee3-e04436e23469.png)
+
+Github will automatically get your repositories and select the one you would like to clone and get a local copy from.
+
+And also selct which local path you would like to use for your files. Github Desktop will suggest a path, you can use that one or type in any other path you like to use.
+
+*** Click CLONE ***
+
+Then you are done.
+
+
 ## Push and pull files from Github (upload and download updates of your map file)
 
 ## Creating example map
