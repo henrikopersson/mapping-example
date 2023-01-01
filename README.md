@@ -125,11 +125,12 @@ Create repository
 
 
 ## Adding members / collaborators
-1. Click settings on your repository
+
+**1. Click settings on your repository**
 
 ![image](https://user-images.githubusercontent.com/5741093/196257378-d7f75f4b-203d-4266-98c6-d06b7dbaddaf.png)
 
-2. Click collaborators
+**2. Click collaborators**
 
 ![image](https://user-images.githubusercontent.com/5741093/196257491-deef829e-2f54-4e29-a58e-43ee5e1c9295.png)
 
@@ -150,11 +151,11 @@ The user must accept the invite
 
 After the repository was created it is now ready to be cloned, first of you and then other collaborators you have added.
 
-*** Open up the Github client and select to clone a repository ***
+### Open up the Github client and select to clone a repository ###
 
 ![clone repo](https://user-images.githubusercontent.com/72732333/210184324-36ee9518-f1d4-4d83-a0d9-d0544de9dfca.png)
 
-*** First click the refresh button and Github Desktop ***
+### Click the refresh button and Github Desktop ###
 
 ![clone repo 2](https://user-images.githubusercontent.com/72732333/210184379-4bf001b6-cfe0-4346-8ee3-e04436e23469.png)
 
@@ -162,7 +163,7 @@ Github will automatically get your repositories and select the one you would lik
 
 And also selct which local path you would like to use for your files. Github Desktop will suggest a path, you can use that one or type in any other path you like to use.
 
-*** Click CLONE ***
+### Click CLONE ###
 
 Then you are done.
 
