@@ -1,21 +1,30 @@
-# mapping-example
+# Using Open Orienteering Mapper XMAP file format for a collaborative map using Github
 
-**A guide to having multiple mappers work on the same map file using Open Orienteering Mapper and Github**
+**A guide to having multiple mappers work on the same XMAP map file using Open Orienteering Mapper (OOM) and Github**
 
 - [Introduction](https://github.com/henrikopersson/mapping-example/blob/main/README.md#introduction)
 - [Instructions and how-to setup Github account and use it with OOM](https://github.com/henrikopersson/mapping-example/blob/main/README.md#instructions)
 
 
 
-## Introduction
-*Mapping togheter on same map file, is that possible? Yes with Github only changes to the actual map file will be saved.*
+## Intro
+**Mapping togheter on same map file is that really possible?**
+*Yes using a Git tool and Github service only changes to the actual map file will be saved and uploaded to Github*
 
-*Mappers can save data to the same file and at the same time use the benefits for sharing same file and keep trac of changes**
+**Can Mappers can save data to the same file and at the same time?**
+*Yes when saving a map file to XMAP file format OOM saves the map as an XML file. That XML file is a standard file format that Git tools can understand. The Git tool compares files and only adds changes to the base file. Github will also keep track of changes to the map file. So it can be restored.**
+
+**It seems quite complex using another tool is it worth it that extra time?**
+*It depends on your mapping case. If you do mapping alone on a single file it might not be worth it. But if you would like to be more than one person working on the map this could be a good solution. I say it is not perfect but it has some cons and pros. Reading this guide might be a good idea for a start*
+
+**Have you tested this yourself?**
+*Me, Henrik Persson has tested this for some time now. Sharing some sprint maps with other mappers we have tested this for some time now and it seems to work as expected. I have tried to write a guide that mappers can understand but the technical level might be to high.*
+
 
 
 ### Who has the latest version of you map?
 
-When making orienteering maps there is common issue, who has the latest version of that file? 
+When making orienteering maps there is common issue, who has the latest version of that map file.
 
 Normally you save your mapping files in a shared storage like Google Drive, Dropbox etc and let other people access that map. That is fine when you have an actual version of the map ready for competitions or training. But when working on the map together with others mappers or sharing to other people during the work, you don't need to care who has the latest version of the map. Github has always latest version. As long as mappers submit there latest changes to the file.
 
@@ -27,14 +36,14 @@ Eventually nothing.
 If mappers draw on the same area the output will be that area has all the data both mappers submit.
 As long as mappers don't delete data from that area that is fine. 
 
-But using Github is not solving all your problems. Still there could be issues if mappers draw on the same area. So before you start let the other collaborators know which area you are supposed to map to prevent mapping issues.
+But using Github is not solving all your problems. Still there could be issues if mappers draw on the same area. So before you start it good be a good idea letting the other collaborators know which area you are supposed to map to prevent mapping issues.
 
 Github will keep track of all changes so if someone deletes data from your mapping file that can be restored. The issue here is knowing where to find that change. Github will not tell you like "symbol 501 was deleted". Instead it will point to lines in the XML file that was removed.
 
 
 ### Using XMAP format in Open Orienteering mapper is mandatory ###
 
-When making a new map or revise your current map were multiple collaborators working with the same file it must be saved saved in the XMAP format in Open Orienteering Mapper. If you save your file in the OMAP format, OOM compacts the file and the file that not be read with Github to merge changes to the map. Same for OCAD files. 
+When making a new map or revise your current map were multiple collaborators working with the same file it must be saved saved in the XMAP format in Open Orienteering Mapper. If you save your file in the OMAP format, OOM compacts the file and the file that not be read with Github to merge changes to the map. Same for OCAD files. When using the XMAP file format files will be larger than OMAP.
 
 Since XMAP is an XML format, the file is saved in a clear text format.
 
