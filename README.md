@@ -9,15 +9,22 @@
 
 ## Intro
 **Mapping togheter on same map file is that really possible?**
+
 *Yes using a Git tool and Github service only changes to the actual map file will be saved and uploaded to Github*
 
+
 **Can Mappers can save data to the same file and at the same time?**
+
 *Yes when saving a map file to XMAP file format OOM saves the map as an XML file. That XML file is a standard file format that Git tools can understand. The Git tool compares files and only adds changes to the base file. Github will also keep track of changes to the map file. So it can be restored.**
 
+
 **It seems quite complex using another tool is it worth it that extra time?**
+
 *It depends on your mapping case. If you do mapping alone on a single file it might not be worth it. But if you would like to be more than one person working on the map this could be a good solution. I say it is not perfect but it has some cons and pros. Reading this guide might be a good idea for a start*
 
+
 **Have you tested this yourself?**
+
 *Me, Henrik Persson has tested this for some time now. Sharing some sprint maps with other mappers we have tested this for some time now and it seems to work as expected. I have tried to write a guide that mappers can understand but the technical level might be to high.*
 
 
@@ -60,13 +67,13 @@ Since XMAP is an XML format, the file is saved in a clear text format.
 
 - [Adding members / collaborators](https://github.com/henrikopersson/mapping-example/blob/main/README.md#adding-members--collaborators)
 
-- Clone repository
+- [Clone repository](https://github.com/henrikopersson/mapping-example/blob/main/README.md#clone-repository-get-a-local-copy-of-your-files-from-github)
 
 - Push and pull files from Github
 
 - [Creating example map and push to Github](https://github.com/henrikopersson/mapping-example#creating-example-map)
 
-- Q & A
+
 
 
 ## Setting up your Github account and use Github Desktop Client
@@ -193,7 +200,20 @@ Then you are done.
 
 ## Push and pull files from Github (upload and download updates of your map file)
 
-## Creating example map
+### 1. Open your Github client
+
+### 2. Select the local repository you would like to use
+
+### 3. Start to click button "Pull origin" to check if mapping file has been updated. If you are the only one working the map you don't need to pull. 
+
+### 4. If you have made any changes to your local map file that data needs to be committed to your local Git repository. Submit the changes and write a comment.
+
+### 5. After committing locally push changes to Github. Done.
+
+
+
+
+## Example map
 
 A simple map 
 ![image](https://user-images.githubusercontent.com/5741093/196256390-a757ce10-3f73-4bdc-868d-5aea1ec48b94.png)
